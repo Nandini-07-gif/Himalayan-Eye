@@ -1,0 +1,21 @@
+metric,value,unit
+Study Region Area,56.4763967301,km2
+2015 Snow/Ice Area,30.0630225670,km2
+2020 Snow/Ice Area,27.7917607064,km2
+2025 Snow/Ice Area,32.6312664520,km2
+2015-2025 Mapped Area Difference,2.5682438850,km2
+Random Holdout Accuracy,98.9966555184,percent
+Random Holdout Kappa,0.9821100917,score
+Spatial Validation Accuracy,96.8274111675,percent
+Spatial Validation Kappa,0.9468954028,score
+NDSI Relative Importance,48.5183075576,index
+NDVI Relative Importance,23.3560472732,index
+NDWI Relative Importance,26.4421813809,index
+Spatial Accuracy Without NDSI,96.0659898477,percent
+NDSI Accuracy Improvement,0.7614213198,percentage_points
+Common Valid Comparison Area,47.5598957115,km2
+Stable Snow/Ice,25.7212721624,km2
+Snow/Ice Loss,1.5268726765,km2
+Snow/Ice Gain,5.5013427836,km2
+Net Snow/Ice Transition Change,3.9744701071,km2
+Landsat-Sentinel Agreement,84.6907101902,percent
