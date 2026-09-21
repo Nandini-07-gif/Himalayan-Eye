@@ -1,0 +1,6 @@
+# Himalayan Eye
+# Core analysis was performed in Google Earth Engine using JavaScript.
+# No Python packages are required to reproduce the Earth Engine workflow.
+#
+# The main analysis script is:
+# Himalayan_eye.js
